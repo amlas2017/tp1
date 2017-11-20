@@ -1,8 +1,1 @@
-salade 
-huile d olive
-sel
-poivre
-fromage
-POULET
-vinaigrette
-chevre
+LIGNE 
